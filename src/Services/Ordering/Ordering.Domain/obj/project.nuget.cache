@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GaWRBhPk3DuQ9mVYeyGBhBbTh+bnQwKy58gVBPtmG6NR/SVADf4WVhI6xXXP2bFJ2heHznrTzM6t6l6TzPQZVQ==",
+  "dgSpecHash": "9QnOy0a7IxH4q7XFxPqxzI3QcBMW6kSq9sysF0SzLy7qm93pYmn09wthruG4OqanXArOfeBUeawEIolf4z9vJw==",
   "success": true,
-  "projectFilePath": "D:\\Мои вещи\\Проги\\Microservices\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+  "projectFilePath": "D:\\Repositories\\Microservices\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

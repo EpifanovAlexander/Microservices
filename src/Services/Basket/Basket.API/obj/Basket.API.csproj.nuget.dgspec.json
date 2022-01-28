@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Мои вещи\\Проги\\Microservices\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj": {}
+    "D:\\Repositories\\Microservices\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj": {}
   },
   "projects": {
-    "D:\\Мои вещи\\Проги\\Microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj": {
+    "D:\\Repositories\\Microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Мои вещи\\Проги\\Microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
+        "projectUniqueName": "D:\\Repositories\\Microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
         "projectName": "Common.Logging",
-        "projectPath": "D:\\Мои вещи\\Проги\\Microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
+        "projectPath": "D:\\Repositories\\Microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
         "packagesPath": "C:\\Users\\alexl\\.nuget\\packages\\",
-        "outputPath": "D:\\Мои вещи\\Проги\\Microservices\\src\\BuildingBlocks\\Common.Logging\\obj\\",
+        "outputPath": "D:\\Repositories\\Microservices\\src\\BuildingBlocks\\Common.Logging\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\alexl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +29,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net50": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -36,7 +41,8 @@
         }
       },
       "frameworks": {
-        "net50": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Serilog.AspNetCore": {
               "target": "Package",
@@ -51,21 +57,40 @@
               "version": "[8.4.1, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Мои вещи\\Проги\\Microservices\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj": {
+    "D:\\Repositories\\Microservices\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Мои вещи\\Проги\\Microservices\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj",
+        "projectUniqueName": "D:\\Repositories\\Microservices\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj",
         "projectName": "EventBus.Messages",
-        "projectPath": "D:\\Мои вещи\\Проги\\Microservices\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj",
+        "projectPath": "D:\\Repositories\\Microservices\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj",
         "packagesPath": "C:\\Users\\alexl\\.nuget\\packages\\",
-        "outputPath": "D:\\Мои вещи\\Проги\\Microservices\\src\\BuildingBlocks\\EventBus.Messages\\obj\\",
+        "outputPath": "D:\\Repositories\\Microservices\\src\\BuildingBlocks\\EventBus.Messages\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\alexl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -76,7 +101,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net50": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -87,22 +113,42 @@
         }
       },
       "frameworks": {
-        "net50": {
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Мои вещи\\Проги\\Microservices\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj": {
+    "D:\\Repositories\\Microservices\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Мои вещи\\Проги\\Microservices\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj",
+        "projectUniqueName": "D:\\Repositories\\Microservices\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj",
         "projectName": "Basket.API",
-        "projectPath": "D:\\Мои вещи\\Проги\\Microservices\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj",
+        "projectPath": "D:\\Repositories\\Microservices\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj",
         "packagesPath": "C:\\Users\\alexl\\.nuget\\packages\\",
-        "outputPath": "D:\\Мои вещи\\Проги\\Microservices\\src\\Services\\Basket\\Basket.API\\obj\\",
+        "outputPath": "D:\\Repositories\\Microservices\\src\\Services\\Basket\\Basket.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\alexl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -113,13 +159,14 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net50": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Мои вещи\\Проги\\Microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj": {
-                "projectPath": "D:\\Мои вещи\\Проги\\Microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj"
+              "D:\\Repositories\\Microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj": {
+                "projectPath": "D:\\Repositories\\Microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj"
               },
-              "D:\\Мои вещи\\Проги\\Microservices\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj": {
-                "projectPath": "D:\\Мои вещи\\Проги\\Microservices\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj"
+              "D:\\Repositories\\Microservices\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj": {
+                "projectPath": "D:\\Repositories\\Microservices\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj"
               }
             }
           }
@@ -131,7 +178,8 @@
         }
       },
       "frameworks": {
-        "net50": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "AspNetCore.HealthChecks.Redis": {
               "target": "Package",
@@ -161,6 +209,14 @@
               "target": "Package",
               "version": "[7.1.5, )"
             },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
             "Microsoft.Extensions.Caching.StackExchangeRedis": {
               "target": "Package",
               "version": "[5.0.1, )"
@@ -178,12 +234,25 @@
               "version": "[6.0.7, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win7-x86": {
-          "#import": []
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "dgSpecHash": "JalsPKSavLniWu51zcuBiQ+f2btzatfUoYxqJYb63UsxEe4m30SmNqgBUU2MJ73MbizYml0aCxOcQeBBjLB1Qg==",
+  "success": false,
+  "projectFilePath": "D:\\Мои вещи\\Проги\\Microservices\\src\\WebApps\\WebStatus\\WebStatus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexl\\.nuget\\packages\\aspnetcore.healthchecks.ui\\5.0.1\\aspnetcore.healthchecks.ui.5.0.1.nupkg.sha512",
+    "C:\\Users\\alexl\\.nuget\\packages\\aspnetcore.healthchecks.ui.inmemory.storage\\5.0.1\\aspnetcore.healthchecks.ui.inmemory.storage.5.0.1.nupkg.sha512",
+    "C:\\Users\\alexl\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AspNetCore.HealthChecks.UI 5.0.1 несовместим с net50 (.NETFramework,Version=v5.0). Пакет AspNetCore.HealthChecks.UI 5.0.1 поддерживает: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "AspNetCore.HealthChecks.UI",
+      "targetGraphs": [
+        ".NETFramework,Version=v5.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AspNetCore.HealthChecks.UI.InMemory.Storage 5.0.1 несовместим с net50 (.NETFramework,Version=v5.0). Пакет AspNetCore.HealthChecks.UI.InMemory.Storage 5.0.1 поддерживает: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "AspNetCore.HealthChecks.UI.InMemory.Storage",
+      "targetGraphs": [
+        ".NETFramework,Version=v5.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AspNetCore.HealthChecks.UI 5.0.1 несовместим с net50 (.NETFramework,Version=v5.0) / win7-x86. Пакет AspNetCore.HealthChecks.UI 5.0.1 поддерживает: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "AspNetCore.HealthChecks.UI",
+      "targetGraphs": [
+        ".NETFramework,Version=v5.0/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AspNetCore.HealthChecks.UI.InMemory.Storage 5.0.1 несовместим с net50 (.NETFramework,Version=v5.0) / win7-x86. Пакет AspNetCore.HealthChecks.UI.InMemory.Storage 5.0.1 поддерживает: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "AspNetCore.HealthChecks.UI.InMemory.Storage",
+      "targetGraphs": [
+        ".NETFramework,Version=v5.0/win7-x86"
+      ]
+    }
+  ]
+}

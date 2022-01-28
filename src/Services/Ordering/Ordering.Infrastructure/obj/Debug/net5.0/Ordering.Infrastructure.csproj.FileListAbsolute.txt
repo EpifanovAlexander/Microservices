@@ -1,0 +1,17 @@
+D:\Repositories\Microservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Infrastructure.deps.json
+D:\Repositories\Microservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Infrastructure.dll
+D:\Repositories\Microservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\ref\Ordering.Infrastructure.dll
+D:\Repositories\Microservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Infrastructure.pdb
+D:\Repositories\Microservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Application.dll
+D:\Repositories\Microservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Domain.dll
+D:\Repositories\Microservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Application.pdb
+D:\Repositories\Microservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Domain.pdb
+D:\Repositories\Microservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.csproj.AssemblyReference.cache
+D:\Repositories\Microservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Microservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.AssemblyInfoInputs.cache
+D:\Repositories\Microservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.AssemblyInfo.cs
+D:\Repositories\Microservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Repositories\Microservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.csproj.CopyComplete
+D:\Repositories\Microservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.dll
+D:\Repositories\Microservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\ref\Ordering.Infrastructure.dll
+D:\Repositories\Microservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.pdb
